@@ -1,6 +1,6 @@
 android_library {
 
-    name: "VendorSupport-preference",
+    name: "blaze-preference",
 
     optimize: {
         enabled: false,
